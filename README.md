@@ -1,3 +1,3 @@
-Repo created for MappedTypes article on Instytut Fullstack Blog (https://instytutfullstack.pl/)
+# Repo created for MappedTypes article on Instytut Fullstack Blog (https://instytutfullstack.pl/)
 
-Starting  tpescript check by command npm start
+## Starting  typescript check by command npm start
